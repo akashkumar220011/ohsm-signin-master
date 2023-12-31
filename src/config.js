@@ -1,0 +1,1 @@
+export const baseUrl = 'https://ohsm-c9lq.onrender.com'

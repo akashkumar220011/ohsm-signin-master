@@ -1,0 +1,16 @@
+.App {
+  /* text-align: center; */
+  /* background-color: red; */
+  height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background: red; */
+  
+}
+:root{
+  --primary-color: #e7319d;
+  --bg-color: #FFE9F6;
+  --border-color: #f3f4f6;
+}
+
